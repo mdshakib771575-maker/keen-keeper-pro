@@ -3,10 +3,11 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-           <footer className="footer footer-horizontal footer-center bg-green-800 text-white text-base-content rounded p-10">
+           <footer className="footer footer-horizontal footer-center bg-green-900 text-white text-base-content rounded p-10 mt-11 " >
           <h2 className='text-3xl font-bold'>KeenKeeper</h2>
           <p>Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
   <nav>
+     <p className='font-semibold'>Social Links</p>
     <div className="grid grid-flow-col gap-4">
       <a>
         <svg
@@ -43,6 +44,7 @@ const Footer = () => {
       </a>
     </div>
   </nav>
+ 
   <aside className=' lg:flex flex-row-reverse gap-20'>
   
   <nav className="grid grid-flow-col gap-4">
