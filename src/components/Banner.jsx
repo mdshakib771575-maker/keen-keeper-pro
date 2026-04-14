@@ -11,7 +11,7 @@ const Banner = () => {
 
                 </div>
                 <div className='text-center'>
-                    <button className='btn bg-green-700 text-white'><MdAddBox /> Add a Friend</button>
+                    <button className='btn bg-green-700 text-white mt-3'><MdAddBox /> Add a Friend</button>
                 </div>
             </div>
 
