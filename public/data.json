@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Babar Azam",
+    "picture": "https://i.ibb.co.com/TDsnp62B/Babar.png",
+    "email": "babar@example.com",
+    "days_since_contact": 10,
+    "status": "On-Track",
+    "tags": ["college", "close friend"],
+    "bio": "Top-order batsman and captain of Pakistan.",
+    "goal": 7,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Mohammad Rizwan",
+    "picture": "https://i.ibb.co.com/XrgLNw8x/M-Rizwan.jpg",
+    "email": "rizwan@example.com",
+    "days_since_contact": 12,
+    "status": "overdue",
+    "tags": ["office", "team"],
+    "bio": "Reliable wicketkeeper-batsman.",
+    "goal": 10,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "picture": "https://i.ibb.co.com/nqwXScpp/download-1.jpg",
+    "email": "shakib@example.com",
+    "days_since_contact": 8,
+    "status": "active",
+ "tags": ["gym", "buddy"],
+    "bio": "World-class all-rounder from Bangladesh.",
+    "goal": 7,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 4,
+    "name": "Tamim Iqbal",
+    "picture": "https://i.ibb.co.com/WJXVJvP/download.jpg",
+    "email": "tamim@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Aggressive opening batsman.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 5,
+    "name": "Mustafizur Rahman",
+    "picture": "https://i.ibb.co.com/KpGjZ8FN/385790-1.webp",
+    "email": "fizz@example.com",
+    "days_since_contact": 5,
+    "status": "active",
+    "tags": ["close friend"],
+    "bio": "Famous for his deadly cutters.",
+    "goal": 10,
+    "next_due_date": "2025-07-21"
+  },
+  {
+    "id": 6,
+    "name": "Mahmudullah Riyad",
+    "picture": "https://i.ibb.co.com/vCsMtB7r/riyad-30.webp",
+    "email": "riyad@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+     "tags": ["client"],
+    "bio": "Experienced middle-order batsman.",
+    "goal": 7,
+    "next_due_date": "2025-07-17"
+  },
+  {
+    "id": 7,
+    "name": "Sarfaraz Ahmed",
+    "picture": "https://i.ibb.co.com/wrK6P1rK/gettyimages-1531852042-612x612.jpg",
+    "email": "sarfaraz@example.com",
+    "days_since_contact": 9,
+    "status": "On-Track",
+    "tags": ["school", "friend"],
+    "bio": "Former Pakistan captain.",
+    "goal": 7,
+    "next_due_date": "2025-07-24"
+  },
+  {
+    "id": 8,
+    "name": "Shoaib Malik",
+    "picture": "https://i.ibb.co.com/tTDPGSp3/320470-1.webp",
+    "email": "malik@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+   "tags": ["mentor"],
+    "bio": "Veteran all-rounder.",
+    "goal": 10,
+    "next_due_date": "2025-07-19"
+  },
+  {
+    "id": 9,
+    "name": "Imad Wasim",
+    "picture": "https://i.ibb.co.com/7drrzFVw/Imad-Wasim-1.jpg",
+    "email": "imad@example.com",
+    "days_since_contact": 6,
+    "status": "On-Track",
+     "tags": ["neighbor"],
+    "bio": "Left-arm spinner and useful batsman.",
+    "goal": 7,
+    "next_due_date": "2025-07-23"
+  },
+  {
+    "id": 10,
+    "name": "Mohammad Nabi",
+    "picture": "https://i.ibb.co.com/XrS9HJ0D/download-2.jpg",
+    "email": "nabi@example.com",
+    "days_since_contact": 11,
+    "status": "active",
+    "tags": ["client", "vip"],
+    "bio": "Afghanistan's experienced all-rounder.",
+    "goal": 7,
+    "next_due_date": "2025-07-20"
+  }
+]

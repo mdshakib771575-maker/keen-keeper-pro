@@ -6,7 +6,7 @@ import React from 'react';
 
 const MynavLink = ({ href, children }) => {
     const pathName = usePathname()
-    console.log("pathname", pathName)
+    // console.log("pathname", pathName)
     return (
 
         <Link href={href} className={` font-semibold mr-1 ${pathName === href ? "bg-green-700 text text-white" : ""}`}>{children}</Link>
