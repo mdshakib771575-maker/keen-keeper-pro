@@ -1,12 +1,10 @@
 
 import React from 'react';
 import FriendsCard from './FriendsCard';
-
-
+import friendsData from '../../public/data.json';
 const Friends = async() => {
-    const res = await fetch('http://localhost:3000/data.json');
-     const friends  = await res.json();
-   
+   const friends = friendsData
+  
     return (
         <div className='w-11/12 mx-auto  mt-8'>
             <h2 className='text-xl font-bold mb-5'>Friends :</h2>
