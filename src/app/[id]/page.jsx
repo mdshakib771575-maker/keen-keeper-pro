@@ -11,7 +11,7 @@ const FriendDetailPage = async ({ params }) => {
     //  console.log(friends);
 
     const friend = friends.find(friend => friend.id == id)
-    console.log(friend)
+    // console.log(friend)
 
 
 

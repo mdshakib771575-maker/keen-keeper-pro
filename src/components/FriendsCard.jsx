@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React from 'react';
 
 const FriendsCard = ({friend}) => {
-    console.log(friend)
+    // console.log(friend)
     return (
         <div className='flex'>
             <Link href={`http://localhost:3000/${friend.id}`} className="card bg-base-100 w-100 card-md shadow-xl text-center border border-gray-200">

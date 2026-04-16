@@ -32,8 +32,8 @@ const Banner = () => {
                 </div>
                 <div className="card card-border bg-base-100 shadow-2xl border border-gray-200">
                     <div className="card-body text-center">
-                        <h2 className="font-bold text-2xl ">6</h2>
-                        <p className ="font-bold">Need Attention</p>
+                        <h2 className="font-bold text-2xl ">4</h2>
+                        <p className ="font-bold">overdue</p>
                        
                     </div>
                 </div>
