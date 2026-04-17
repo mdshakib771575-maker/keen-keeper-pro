@@ -1,6 +1,6 @@
 # 👥 KeenKeeper — Keep Your Friendships Alive
 
-![KeenKeeper Cover](https://via.placeholder.com/1200x500/6366F1/FFFFFF?text=KeenKeeper+%E2%80%94+Never+Let+Friendships+Fade)
+![KeenKeeper Cover]([https://via.placeholder.com/1200x500/6366F1/FFFFFF?text=KeenKeeper+%E2%80%94+Never+Let+Friendships+Fade](https://vercel-project-keen-keeper-pr1svxkxf.vercel.app/))
 
 **KeenKeeper** হলো একটি সুন্দর ও সহজ ওয়েব অ্যাপ যা তোমাকে তোমার বন্ধুদের সাথে যোগাযোগ বজায় রাখতে সাহায্য করে। এখানে তুমি দেখতে পারবে কতদিন আগে কার সাথে কথা বলেছ, কন্টাক্ট গোল সেট করতে পারবে, কল/টেক্সট/ভিডিও কল লগ করতে পারবে এবং সুন্দর অ্যানালিটিক্স দেখতে পারবে।
 
@@ -35,16 +35,16 @@
 ---
 
 **Home Page**  
-![Home Page](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Home+Page)
+![Home Page](https://vercel-project-keen-keeper-pr1svxkxf.vercel.app/)
 
 **Friend Details Page**  
-![Friend Details](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Friend+Detail+Page)
+![Friend Details]([https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Friend+Detail+Page](http://localhost:3000/1))
 
 **Timeline Page**  
-![Timeline](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Timeline+Page)
+![Timeline]([https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Timeline+Page](http://localhost:3000/timeline))
 
 **Analytics Page**  
-![Analytics](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Analytics+Page)
+![Analytics]([https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Analytics+Page](http://localhost:3000/stats))
 
 ---
 
