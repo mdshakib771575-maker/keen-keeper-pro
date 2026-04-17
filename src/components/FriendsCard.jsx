@@ -6,7 +6,7 @@ const FriendsCard = ({friend}) => {
     // console.log(friend)
     return (
         <div className='flex'>
-            <Link href={`http://localhost:3000/${friend.id}`} className="card bg-base-100 w-100 card-md shadow-xl text-center border border-gray-200">
+            <Link href={`https://vercel-project-keen-keeper-pro.vercel.app/${friend.id}`} className="card bg-base-100 w-100 card-md shadow-xl text-center border border-gray-200">
   <div className="card-body">
     <div className='flex justify-center items-center'>
        <Image src={friend.picture} width={'70'}  height={'60'} alt={friend.picture} className='rounded-full bg-gray-700'></Image>
