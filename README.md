@@ -24,7 +24,7 @@
 
 ## 🛠️ ব্যবহৃত টেকনোলজি
 
-- **Frontend**: React.js + Vite
+- **Frontend**: Next.js
 - **Routing**: React Router DOM
 - **Styling**: Tailwind CSS
 - **Charts**: Recharts
