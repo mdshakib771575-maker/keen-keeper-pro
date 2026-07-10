@@ -4,6 +4,7 @@ import MynavLink from './MynavLink';
 import { FaHome } from "react-icons/fa";
 import { RiTimeLine } from "react-icons/ri";
 import { TfiStatsUp } from "react-icons/tfi";
+import { GiThreeFriends } from 'react-icons/gi';
 
 
 const Navber = () => {
@@ -27,7 +28,8 @@ const Navber = () => {
                            {links}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-2xl">Keenkeeper</a>
+                    <a className="btn btn-ghost text-2xl text-green-700"><GiThreeFriends />
+Keenkeeper</a>
                 </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">

@@ -15,7 +15,7 @@ const Banner = () => {
                 </div>
             </div>
 
-            <div className='grid lg:grid-cols-4 gap-3.5 w-11/12 mx-auto mt-10 '>
+            <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-3.5 w-11/12 mx-auto mt-10 '>
                 <div className="card card-border bg-base-100  shadow-2xl border border-gray-200">
                     <div className="card-body text-center">
                         <h2 className="font-bold text-2xl ">10</h2>
